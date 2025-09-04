@@ -1,0 +1,1 @@
+welcome("js file from local")
