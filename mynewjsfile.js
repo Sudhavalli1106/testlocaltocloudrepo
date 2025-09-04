@@ -1,3 +1,3 @@
 welcome("js file from local");
-let developername = "sudha";
+let developername = "new user";
 let testername = "local git folder";
